@@ -13,3 +13,4 @@ print(type(age))
 print(type(price))
 name1 ="k"
 name2='k'
+kk
